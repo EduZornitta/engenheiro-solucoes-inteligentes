@@ -17,4 +17,4 @@ com foco em backend, dados e sistemas inteligentes.
 - projetos → projetos práticos
 
 ## Autor
-Z
+Eduardo Zornitta da Silva
